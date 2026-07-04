@@ -1,4 +1,3 @@
-
 public class SearchTest {
 
     // Linear Search
@@ -21,7 +20,7 @@ public class SearchTest {
         int high = products.length - 1;
 
         while (low <= high) {
-
+ 
             int mid = (low + high) / 2;
 
             if (products[mid].productId == id) {
