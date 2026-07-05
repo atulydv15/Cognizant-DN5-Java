@@ -1,17 +1,39 @@
-# Cognizant Digital Nurture 5.0
+# Upskilling
 
-## Java Full Stack Engineering
+This module contains practical exercises completed during the **Cognizant Digital Nurture 5.0 Upskilling Program**.
 
-This repository contains all mandatory exercises completed during the Cognizant Digital Nurture 5.0 Program.
+## Modules Included
 
-Topics Covered
+- HTML
+- CSS
+- JavaScript
+- SQL
 
-- Data Structures & Algorithms
-- Design Patterns
-- PL/SQL (Coming Soon)
-- Spring Core (Coming Soon)
-- Spring Boot (Coming Soon)
+Each module contains hands-on exercises designed to strengthen front-end development and programming fundamentals.
 
-Author
-Atul Yadav
-GLA University
+## Folder Structure
+
+```
+UPSKILLING
+├── HTML
+├── CSS
+├── JavaScript
+├── SQL
+└── README.md
+```
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- SQL
+- Git & GitHub
+
+## Objective
+
+The objective of this module is to build a strong foundation in web development and database fundamentals through practical exercises.
+
+## Author
+
+**Atul Yadav**
