@@ -1,17 +1,27 @@
-# Cognizant Digital Nurture 5.0
+# JUnit, Mockito and SLF4J
 
-## Java Full Stack Engineering
+This module contains hands-on exercises and examples for **JUnit**, **Mockito**, and **SLF4J** as part of the **Cognizant Digital Nurture 5.0** program.
 
-This repository contains all mandatory exercises completed during the Cognizant Digital Nurture 5.0 Program.
+## Topics Covered
 
-Topics Covered
+- JUnit Basics
+- Unit Testing
+- Assertions
+- Test Cases
+- Mockito Basics
+- Mock Objects
+- Stubbing
+- Verification
+- SLF4J Logging
+- Logging Best Practices
 
-- Data Structures & Algorithms
-- Design Patterns
-- PL/SQL (Coming Soon)
-- Spring Core (Coming Soon)
-- Spring Boot (Coming Soon)
+## Folder Structure
 
-Author
-Atul Yadav
-GLA University
+```
+JUnitMockitoandSL4J
+├── BasicTestingExercises
+├── MockitoExercises
+└── README.md
+```
+
+## Technologies Used
