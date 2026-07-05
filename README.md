@@ -1,24 +1,40 @@
-# Cognizant Digital Nurture 5.0 - Java Full Stack
+# PL/SQL
 
-This repository contains my solutions and practice exercises completed as part of the Cognizant Digital Nurture 5.0 (DN 5.0) program.
+This module contains PL/SQL exercises and practical implementations completed as part of the **Cognizant Digital Nurture 5.0** program.
 
-## Repository Structure
+## Topics Covered
 
-- Data Structure and Algorithm
-- Design Patterns and Principles
-- PL/SQL Programming
-- Spring Framework (will be added)
-- Spring Boot (will be added)
+- SQL Basics
+- PL/SQL Fundamentals
+- Variables and Constants
+- Conditional Statements
+- Loops
+- Cursors
+- Stored Procedures
+- Functions
+- Packages
+- Triggers
+- Exception Handling
+
+## Folder Structure
+
+```
+PL_SQL
+├── Hands-on Exercises
+├── Practice Programs
+└── README.md
+```
 
 ## Technologies Used
 
-- Java
+- Oracle SQL
 - PL/SQL
-- Spring
-- Spring Boot
-- Git & GitHub
+- Oracle Database
+
+## Objective
+
+The objective of this module is to understand database programming concepts using PL/SQL, including writing procedures, functions, packages, triggers, and handling exceptions through practical exercises.
 
 ## Author
 
 **Atul Yadav**
-B.Tech CSE
